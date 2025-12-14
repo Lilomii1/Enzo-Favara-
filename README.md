@@ -20,7 +20,7 @@
                     Вкладка "Обратная связь"
                     </div>
 ## 🚀 Живая демо
-**[👉 Открыть сайт на GitHub Pages](https://Lilomii1.github.io/Enzo-Favara/)**
+https://Lilomii1.github.io/Enzo-Favara/
 
 ## 🛠 Технологии
 - HTML5 (семантическая верстка)
@@ -43,5 +43,4 @@
 ### Способ 1: Через Git
 ```bash
 git clone https://github.com/Lilomii1/Enzo-Favara.git
-cd Enzo-Favara
-# Откройте index.html в браузере
+
